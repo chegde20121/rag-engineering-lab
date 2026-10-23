@@ -1,0 +1,13 @@
+JES2   OPERATIONS GUIDE     
+Page 1  |  Internal Training
+
+## Spool   management
+JES2 manages spool  space for job input and output.
+Use `$D SPOOL` to display spool utiliza-
+tion.
+
+Page 1  |  Internal Training
+
+## Troubleshooting
+IEF450I JOB1234 - ABEND=S0C4
+Contact: admin@example.com
